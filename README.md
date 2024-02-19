@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ejbue_-OQ8AFx6NTAvbw2g.gif)](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ejbue_-OQ8AFx6NTAvbw2g.gif)
+[![MasterHead](https://www.profiq.com/wp-content/uploads/2023/08/inline-suggestions-faster-1.gif)](https://www.profiq.com/wp-content/uploads/2023/08/inline-suggestions-faster-1.gif)
 <h1 align="center">Hi 👋, I'm < Pavlovic Bojan /></h1>
 <h3 align="center">A passionate QA Engineer who likes to automate things from Serbia</h3>
 
