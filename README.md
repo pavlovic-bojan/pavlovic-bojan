@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pavlovic Bojan</h1>
+<h1 align="center">Hi 👋, I'm < Pavlovic Bojan /></h1>
 <h3 align="center">A passionate QA Engineer who likes to automate things from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavlovic-bojan&label=Profile%20views&color=0e75b6&style=flat" alt="pavlovic-bojan" /> </p>
