@@ -1,4 +1,4 @@
-[![MasterHead](https://cypress-io.ghost.io/blog/content/images/2022/08/Studio-10-Gif---Long.gif)](https://cypress-io.ghost.io/blog/content/images/2022/08/Studio-10-Gif---Long.gif)
+[![MasterHead](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ejbue_-OQ8AFx6NTAvbw2g.gif)](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*Ejbue_-OQ8AFx6NTAvbw2g.gif)
 <h1 align="center">Hi 👋, I'm < Pavlovic Bojan /></h1>
 <h3 align="center">A passionate QA Engineer who likes to automate things from Serbia</h3>
 
