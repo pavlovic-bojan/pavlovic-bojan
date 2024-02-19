@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pavlovic Bojan</h1>
-<h3 align="center">A passionate QA Engineer who likes to automate things from Serbia India</h3>
+<h3 align="center">A passionate QA Engineer who likes to automate things from Serbia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pavlovic-bojan&label=Profile%20views&color=0e75b6&style=flat" alt="pavlovic-bojan" /> </p>
 
@@ -14,6 +14,7 @@
 - 💬 Ask me about **Cypress & QA**
 
 - 📫 How to reach me **bojanpavlovicoffice@gmail.com**
+-  ⚡ Fun fact: Testers need to have access to comprehensive guides, manuals and lists of specifications about the product so they are aware of the proper way of functioning.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -26,7 +27,7 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pavlovic-bojan&show_icons=true&locale=en&layout=compact" alt="pavlovic-bojan" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pavlovic-bojan&show_icons=true&locale=en" alt="pavlovic-bojan" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pavlovic-bojan&" alt="pavlovic-bojan" /></p>
 <!--
